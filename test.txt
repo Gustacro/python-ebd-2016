@@ -1,3 +1,4 @@
 this is my first repository
 01/20/2018
+testing how to commit in github
 
